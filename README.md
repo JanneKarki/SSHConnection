@@ -1,6 +1,6 @@
 # SSHConnection App
 
-This application provides a user interface for establishing SSH connection.
+The SSHConnection application is a web-based interface designed to facilitate real-time SSH interactions with remote servers directly from a browser. Integrated with the 'xterm' library, the app provides a live terminal experience. Whether a connection is successfully established, terminated, or if there's an error, feedback is promptly displayed to the user. The app's frontend communicates in real time with its backend using 'socket.io'. This backend is responsible for actual SSH operations, leveraging the 'ssh2' library to establish connections, execute commands, and relay the results back to the frontend. In essence, application serves as a bridge, allowing users to interact with remote servers via SSH directly from their web browsers.
 
 
 ## Setup
