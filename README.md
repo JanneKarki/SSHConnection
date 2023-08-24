@@ -18,7 +18,7 @@ This application provides a user interface for establishing SSH connection.
    ```bash
    cd SSHConnection
 
-# **Installing Dependencies:**
+### **Installing Dependencies:**
 
 1. **Install Node.js:**
  - If you haven't installed Node.js yet, download and install it from Node.js official site.
@@ -27,7 +27,7 @@ This application provides a user interface for establishing SSH connection.
   ```bash
     npm install
   ```
-# Running the App:
+### Running the App:
 1. **Start the Backend:**
    
    Open a new Terminal or Command Prompt window, navigate to the SSHConnection directory and start the backend server with:
