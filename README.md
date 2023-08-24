@@ -27,7 +27,7 @@ This application provides a user interface for establishing SSH connection.
   ```bash
     npm install
   ```
-### Running the App:
+## Running the App:
 1. **Start the Backend:**
    
    Open a new Terminal or Command Prompt window, navigate to the SSHConnection directory and start the backend server with:
